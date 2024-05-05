@@ -1,0 +1,129 @@
+Coding name: HUIA85
+==========================
+== General Message Info ==
+==========================
+GRIB found at pos: 40
+7777 found at pos: 4574
+Distance between end of grib and start of 7777: 4534
+Whole message length: 4538
+
+=====================
+== Section 1 Data  ==
+=====================
+Section 1 length: 28
+Parameter table Version: 2
+Identification of Centre: US National Weather Service - NCEP (WMC)
+process ID number: Analysis from GFS (Global Forecast System)
+Grid Identification: 37
+GDS and BMS: GDS Included, BMS Omitted
+Unit parameters: 33
+Indicator of type of level or layer: 100
+Height, pressure, etc. of the level or layer: 850
+YY/MM/DD|HH:MM : 15/3/10 | 00:00
+Time unit: 1
+P1 - Period of time: 0
+P2 - Period of time: 0
+Time range indicator: 10
+Numbers for last row: 0
+Number missing from averages or accumulation: 0
+Reference century: 21
+Identification of sub Center: 0
+Decimal Scale factor: 1
+
+=====================
+== Section 2 Data  ==
+=====================
+Section 2 length: 178
+Number of Vertical Coordinates: 0
+Octet number: 33
+Data representation type: 0
+Numbers of points along a latitude circle: 65535
+Numbers of points along a longitude meridian: 73
+Latitude: 0 degrees
+Longtitude: -30 degrees
+Resolution and component flags: Direction increments given and Earth assumed spherical
+Latitude of last grid point: 90 degrees
+Longitude of last grid point: 60 degrees
+Longitudinal Direction Increment: -1
+Latitudinal Direction Increment: -30
+Scanning mode flags: Points scan in +i and -j. FORTRAN:(I,J)
+Wiersz 1 Punktów: 73
+Wiersz 2 Punktów: 73
+Wiersz 3 Punktów: 73
+Wiersz 4 Punktów: 73
+Wiersz 5 Punktów: 73
+Wiersz 6 Punktów: 73
+Wiersz 7 Punktów: 73
+Wiersz 8 Punktów: 73
+Wiersz 9 Punktów: 72
+Wiersz 10 Punktów: 72
+Wiersz 11 Punktów: 72
+Wiersz 12 Punktów: 71
+Wiersz 13 Punktów: 71
+Wiersz 14 Punktów: 71
+Wiersz 15 Punktów: 70
+Wiersz 16 Punktów: 70
+Wiersz 17 Punktów: 69
+Wiersz 18 Punktów: 69
+Wiersz 19 Punktów: 68
+Wiersz 20 Punktów: 67
+Wiersz 21 Punktów: 67
+Wiersz 22 Punktów: 66
+Wiersz 23 Punktów: 65
+Wiersz 24 Punktów: 65
+Wiersz 25 Punktów: 64
+Wiersz 26 Punktów: 63
+Wiersz 27 Punktów: 62
+Wiersz 28 Punktów: 61
+Wiersz 29 Punktów: 60
+Wiersz 30 Punktów: 60
+Wiersz 31 Punktów: 59
+Wiersz 32 Punktów: 58
+Wiersz 33 Punktów: 57
+Wiersz 34 Punktów: 56
+Wiersz 35 Punktów: 55
+Wiersz 36 Punktów: 54
+Wiersz 37 Punktów: 52
+Wiersz 38 Punktów: 51
+Wiersz 39 Punktów: 50
+Wiersz 40 Punktów: 49
+Wiersz 41 Punktów: 48
+Wiersz 42 Punktów: 47
+Wiersz 43 Punktów: 45
+Wiersz 44 Punktów: 44
+Wiersz 45 Punktów: 43
+Wiersz 46 Punktów: 42
+Wiersz 47 Punktów: 40
+Wiersz 48 Punktów: 39
+Wiersz 49 Punktów: 38
+Wiersz 50 Punktów: 36
+Wiersz 51 Punktów: 35
+Wiersz 52 Punktów: 33
+Wiersz 53 Punktów: 32
+Wiersz 54 Punktów: 30
+Wiersz 55 Punktów: 29
+Wiersz 56 Punktów: 28
+Wiersz 57 Punktów: 26
+Wiersz 58 Punktów: 25
+Wiersz 59 Punktów: 23
+Wiersz 60 Punktów: 22
+Wiersz 61 Punktów: 20
+Wiersz 62 Punktów: 19
+Wiersz 63 Punktów: 17
+Wiersz 64 Punktów: 16
+Wiersz 65 Punktów: 14
+Wiersz 66 Punktów: 12
+Wiersz 67 Punktów: 11
+Wiersz 68 Punktów: 9
+Wiersz 69 Punktów: 8
+Wiersz 70 Punktów: 6
+Wiersz 71 Punktów: 5
+Wiersz 72 Punktów: 3
+Wiersz 73 Punktów: 2
+
+=====================
+== Section 4 Data  ==
+=====================
+Section 4 length: 4320
+Flag to decode: 2
+Binary Scale Factor: 0
