@@ -50,7 +50,7 @@ private:
 	// SECTION 4 variables
 	uint32_t section4_start, section4_length, flag_section4, scaleFactor;
 
-	// PROPER VALUES variables
+	// Variables values set based off of data from the file
 	std::string s_flag, s_originCentre, s_pid, s_hour, s_minute, s_resAndCompFlags, s_scanningModeFlags;
 	int16_t calculated_latitude, calculated_longtitude, calculatedLatitudeLastPoint, calculatedLongtitudeLastPoint, calculatedLongtitudalDirIncrement,
 	calculatedLatitudalDirIncrement;
